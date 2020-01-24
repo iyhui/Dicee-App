@@ -1,6 +1,9 @@
 # Dicee-App
 ```
-## iOS App - Dice randomizer
+iOS App - Dice randomizer
 ```
-Download instructions:
-Must have xcode installed.
+##Instructions:
+1. Install xcode.
+2. Download project
+3. Open: Dicee.xcodeproj
+4. Run (press play)
